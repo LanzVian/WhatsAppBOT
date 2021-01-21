@@ -59,7 +59,7 @@ BOT WHATSAPP TERMUX ONLY
 ## Note
 BOT INI KHUSUS HP/TERMUX DOANG YAH.
 
-### Credit
+## Credit
 - Ferza-afk
 - ViraBOT
 
