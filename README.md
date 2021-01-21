@@ -57,10 +57,14 @@ BOT WHATSAPP TERMUX ONLY
 |       ✅       | Donate                           |
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Ferza-afk)
+BOT INI KHUSUS HP/TERMUX DOANG YAH.
+
+### Credit
+- Ferza-afk
+- ViraBOT
 
 ## Sosial Media Admin
 
-* [`Instagram Admin`](https://www.instagram.com/ferdi_zaky_luthfi_aridho?r=nametag)
-* [`WhatsApp Admin `](https://wa.me/+6287877173955)
+* [`Instagram Admin`](https://www.instagram.com/odzayrose)
+* [`WhatsApp Admin `](https://wa.me/+6285891027666)
 
